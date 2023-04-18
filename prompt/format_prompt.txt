@@ -1,0 +1,3 @@
+Can you justify if a candidate article discuss the same event or has relevant content to the common theme?
+Provide your answer in the format of
+{"same_event": 1 or 0, "relevant": 1 or 0, "reason": "your reason here"}, where 1 = yes, 0 = no
